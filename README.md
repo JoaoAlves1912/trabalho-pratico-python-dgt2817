@@ -22,6 +22,7 @@ O projeto está organizado nos seguintes ficheiros:
 ## 🛠️ Como Executar
 1. Certifique-se de ter o Python instalado.
 2. Abra o terminal na pasta do projeto.
-3. Execute qualquer script com o comando:
-   ```bash
-  python calculadora.py
+25  3. Execute qualquer script com o comando:
+26     ```bash
+27     python calculadora.py
+28     ```
