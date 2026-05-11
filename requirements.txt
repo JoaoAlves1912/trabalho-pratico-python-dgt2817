@@ -1,0 +1,2 @@
+# Projeto desenvolvido apenas com bibliotecas nativas do Python.
+python>=3.8
