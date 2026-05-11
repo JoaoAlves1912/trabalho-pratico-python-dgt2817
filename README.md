@@ -1,7 +1,8 @@
 # Projeto Integrador: Lógica e Programação em Python
 
 ## 📝 Descrição
-Este repositório contém o conjunto de Microatividades e o Trabalho Prático Final da disciplina **DGT2817**. O foco do projeto é demonstrar o domínio da linguagem Python, utilizando estruturas de controlo de fluxo, laços de repetição, modularização através de funções e tratamento de erros.
+Este repositório contém o conjunto de Microatividades e o Trabalho Prático da disciplina **LÓGICA, ALGORITMOS E
+PROGRAMAÇÃO DE COMPUTADORES**. O foco do projeto é demonstrar o domínio da linguagem Python, utilizando estruturas de controlo de fluxo, laços de repetição, modularização através de funções e tratamento de erros.
 
 ## 🚀 Tecnologias Utilizadas
 - **Linguagem:** Python 3.10+
